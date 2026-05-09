@@ -34,4 +34,3 @@ services:
       DB_NAME: sample
       DB_USER: sampleuser
       DB_PASS: samplepass
-
